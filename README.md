@@ -1,2 +1,2 @@
-# git1
-GitHub1
+# hello git
+this is my GitHub project.
